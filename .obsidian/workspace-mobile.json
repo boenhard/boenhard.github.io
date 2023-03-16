@@ -11,8 +11,12 @@
             "id": "1dd136d18224637b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "meine brüder an den ecken.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "meine brüder an den ecken.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "meine brüder an den ecken.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "meine brüder an den ecken.md"
+          }
         }
       }
     ],
@@ -124,5 +132,7 @@
     }
   },
   "active": "1dd136d18224637b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "meine brüder an den ecken.md"
+  ]
 }
